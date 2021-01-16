@@ -34,6 +34,7 @@ figcaption {
 }
 
 .footer{
-  float:left;
-  width:25%;
+  float: left;
+  width: 25%;
+  text-align: center;
 }
