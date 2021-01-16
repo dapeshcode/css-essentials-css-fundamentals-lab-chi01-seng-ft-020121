@@ -31,6 +31,7 @@ figcaption {
   margin: 0 auto;
   width:800px;
   text-align: center;
+  padding-bottom: 10px;
 }
 
 .footer{
